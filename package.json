@@ -8,8 +8,8 @@
   "dependencies": {
     "@expo/ex-navigation": "^2.11.2",
     "class-autobind": "^0.1.4",
-    "expo": "16.0.0",
-    "react": "16.0.0-alpha.6",
+    "expo": "27.0.2",
+    "react": "16.5.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-16.0.0.tar.gz",
     "react-native-stars-rating": "^0.1.6"
   }
